@@ -8,7 +8,7 @@ https://namek.gabriel-rossi.ch<br>
 <h2>Ligne de commande à exécuter dans l'ordre</h2><br>
 
 composer install<br>
-Vérifier que le .env est bien configuré avec vos informations
+Vérifier que le .env est bien configuré avec vos informations<br>
 php artisan migrate<br>
 php artisan db:seed --class=AddressTableSeeder<br>
 php artisan db:seed --class=FunctionsTableSeeder<br>
