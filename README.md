@@ -12,7 +12,7 @@ php artisan migrate<br>
 php artisan db:seed --class=AddressTableSeeder<br>
 php artisan db:seed --class=FunctionsTableSeeder<br>
 php artisan db:seed --class=LoginsTableSeeder<br>
-php artisan db:seed --class=ProduitRecommandeSeederTable<br>
+php artisan db:seed --class=ProduitRecommandeSeederTable (ne pas faire attention si il y a un warning)<br>
 php artisan db:seed --class=CategoriesTableSeeder<br>
 php artisan db:seed --class=ProductsTableSeeder<br>
 php artisan db:seed --class=OpinionTableSeeder<br>
