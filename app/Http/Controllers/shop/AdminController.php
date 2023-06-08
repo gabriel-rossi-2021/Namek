@@ -91,7 +91,6 @@ class AdminController extends Controller
             'product-name.regex' => 'Le nom du produit doit contenir uniquement des lettres et maximum 50 caractères',
             'product-description.regex' => 'Le nom du produit doit contenir uniquement des lettres et maximum 255 caractères',
             'product-image.regex' => "l'image du produit est obligatoire",
-             //'product-image.image' => "l'image doit être une image",
             'product-size.regex' => 'La taille peux contenir que des chiffres',
             'product-thc.regex' => 'Le taux de thc peux contenir que des chiffres',
             'product-cbd.regex' => 'Le taux de cbd peux contenir que des chiffres',
